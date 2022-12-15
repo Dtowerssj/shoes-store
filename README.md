@@ -2,6 +2,8 @@
 
 Se recomienda revisar la documentación, en la carpeta UML.
 
+![](https://github.com/Dtowerssj/shoes-store/blob/master/GIF.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Paso #1: Clonar el repositorio
