@@ -1,0 +1,57 @@
+.button {
+    padding: 0.5rem  1rem;
+    margin-left: 8px;
+    color: #fff;
+    background: var(--color-bg);
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline-color: var(--color-bg2);
+    border-color: #fff9da;
+    border: none;
+    cursor: pointer;
+}
+
+
+.buttonToRed {
+    padding: 0.5rem  1rem;
+    margin-left: 8px;
+    color: #fff;
+    background: var(--color-bg2);
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline-color: var(--color-bg2);
+    border-color: #fff9da;
+    border: none;
+    cursor: pointer;
+}
+
+.buttonToGreen {
+    padding: 0.5rem  1rem;
+    margin-left: 8px;
+    color: #fff;
+    background: var(--color-bg2);
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline-color: var(--color-bg2);
+    border-color: #fff9da;
+    border: none;
+    cursor: pointer;
+}
+
+.buttonToRed:hover {
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    background: #c31742;
+}
+
+.buttonToGreen:hover {
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    background: var(--color-bg);
+}

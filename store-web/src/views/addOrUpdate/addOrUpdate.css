@@ -1,0 +1,10 @@
+.container label{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.btnContainer {
+    margin-top: 1rem;
+}
+
