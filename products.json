@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "63993aaf87ad42a67250c74e"
+  },
+  "name": "Nike Dunk Low White Black",
+  "description": "siiuu",
+  "price": 60,
+  "imgURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a3e7dead-1ad2-4c40-996d-93ebc9df0fca/dunk-low-retro-mens-shoes-8t3K7k.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670986415827"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670986415827"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63993ffc87ad42a67250c795"
+  },
+  "name": "Nike Dunk High Green",
+  "description": "siiuu",
+  "price": 89,
+  "imgURL": "https://wallpapercave.com/uwp/uwp178267.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670987772136"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670987772136"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639940cf87ad42a67250c79d"
+  },
+  "name": "Adidas Forum Pink",
+  "description": "Footwear",
+  "price": 49,
+  "imgURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6e36c7b763ef4887b825adc50106af56_9366/Forum_Low_WR_Shoes_Pink_GW5923_01_standard.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670987983336"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670987983336"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639ab8bc809559c962b96a1b"
+  },
+  "name": "Work Boots",
+  "description": "Footwear",
+  "price": 59,
+  "imgURL": "https://media.actionis.com/media/catalog/product/cache/1/small_image/592x592/9df78eab33525d08d6e5fb8d27136e95/1/0/1011244-1.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671084220077"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671084220077"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639b084936f49795434c574a"
+  },
+  "name": "Nike Air Max",
+  "description": "Footwear",
+  "price": 89,
+  "imgURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0c24361e-438e-4f03-a1ba-f293b0e475dd/air-max-270-big-kids-shoes-HbtNX3.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671104585876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671104585876"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639b086636f49795434c574f"
+  },
+  "name": "Nike Air Force One",
+  "description": "Footwear",
+  "price": 99,
+  "imgURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-mens-shoes-5QFp5Z.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671104614561"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671104614561"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639b088736f49795434c5754"
+  },
+  "name": "Nike Air Max 97",
+  "description": "Footwear",
+  "price": 49,
+  "imgURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aa5164d2-7cb2-488e-85bd-1d1d677dbf9e/air-max-97-premium-mens-shoes-ztThsC.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671104647479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671104647479"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639b08a436f49795434c5759"
+  },
+  "name": "Nike Air Retro 1 Pink",
+  "description": "Footwear",
+  "price": 49,
+  "imgURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/019f60a9-aa10-4327-b5f6-b940b753fbdb/dunk-high-1985-shoes-rsx4JL.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671104676014"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671104676014"
+    }
+  }
+}]
