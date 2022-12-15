@@ -8,7 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Paso #1: Clonar el repositorio
 
-# Para ejecutar el servidor, dirigirse a ./store-api
+# Paso #2 Ejecutar el servidor: 
+## Para ejecutar el servidor, dirigirse a ./store-api
 
 cd store-api
 
@@ -20,18 +21,19 @@ npm install
 
 npm run dev
 
-# Para ejecutar el cliente, dirigirse a ./store-web
+# Paso #3 Ejecutar el cliente: 
+## Para ejecutar el cliente, dirigirse a ./store-web
 
 cd store-web
-
-### Crear el archivo .env y copiar lo siguiente:
-
-API_HOST=http://localhost:4000/api
 
 ### Instalar dependencias, ejecutando el comando:
 
 npm install
 
+### Crear el archivo .env y copiar lo siguiente:
+
+API_HOST=http://localhost:4000/api
+
 ### Luego ejecutar el comando:
 
-npm install
+npm start
