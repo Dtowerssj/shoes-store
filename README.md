@@ -32,7 +32,7 @@ npm install
 
 ### Crear el archivo .env y copiar lo siguiente:
 
-API_HOST=http://localhost:4000/api
+API_HOST=http://localhost:3200/api
 
 ### Luego ejecutar el comando:
 
@@ -40,17 +40,15 @@ npm start
 
 # IMPORTANTE
 
-### Exporté colecciones de la DB de Mongo (products.json, roles.json, users.json)
-
 ## Rutas: 
 
 ## USAR SIEMPRE LA CABECERA: "x-access-token" con el token que devuelve el servidor
 
 ## - Autenticación:
 
-http://localhost:4000/api/auth/signIn
-http://localhost:4000/api/auth/signUp
+http://localhost:3200/api/auth/signIn
+http://localhost:3200/api/auth/signUp
 
 ## - Productos:
 
-http://localhost:4000/api/products
+http://localhost:3200/api/products
