@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --out-dir build",
     "dev": "nodemon src/index.js --exec babel-node",
-    "start": "node src/index.js"
+    "start": "node build/index.js"
   },
   "author": "Diego Torres",
   "license": "ISC",
