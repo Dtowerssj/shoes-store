@@ -1,3 +1,5 @@
+import 'dotenv/config';
+
 export default {
-    SECRET: 'store-api'
+    SECRET: process.env.JWT_SECRET
 }
