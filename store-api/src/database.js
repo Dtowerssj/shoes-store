@@ -1,5 +1,6 @@
 import mongoose from 'mongoose';
+import 'dotenv/config';
 
-mongoose.connect('mongodb+srv://dtorres:ieWLUH6fPWdbzNg4@cluster0.m7nq5.mongodb.net/store-db')
+mongoose.connect(process.env.MONGODB_URI)
     .then(db => console.log('DB is connected'))
     .catch(error => console.log(error))
